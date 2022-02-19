@@ -1,0 +1,15 @@
+.grid{
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    
+}
+
+.footer{
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+
+}
